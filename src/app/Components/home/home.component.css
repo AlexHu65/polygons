@@ -1,0 +1,36 @@
+.w100{
+  width: 100% !important;
+}
+
+.min-width-250{
+  min-width: 250px !important;
+}
+
+.btn-add .mat-icon{
+  color: #81d7cf !important;
+}
+
+.main-section{
+  min-height: 500px;
+}
+
+.addNewButton{
+    width: 100% !important;
+    min-width: unset!important;
+}
+
+.controls{
+  border: 1px solid #DDE1E6;
+  border-radius: 10px;
+  padding: 18px;
+}
+
+.search-input{
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  background: url('../../../assets/icons/icons8-search.svg');
+  background-repeat: no-repeat;
+  background-position: right;
+  padding: 5px;
+}
+

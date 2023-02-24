@@ -1,0 +1,18 @@
+.bg-gray{
+  background-color: #F0F0F0;
+}
+
+.buttons, .delete{
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.buttons .mat-icon{
+  color: cornflowerblue;
+}
+
+.pointer{
+  cursor: pointer !important;
+}
